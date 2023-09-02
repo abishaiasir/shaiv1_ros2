@@ -35,7 +35,7 @@
 
     <link name="chassis">
         <visual>
-            <origin xyz="0.205 0 0.1"/> <!--half of box size-->
+            <origin xyz="0.205 0 0.1"/> <!--half value of box size -->
             <geometry>
                 <box size="0.41 0.37 0.20"/>
             </geometry>
